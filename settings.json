@@ -10,7 +10,7 @@
   "server": {
     "ip": "Invisi_Mafia.aternos.me",
     "port": 12064,
-    "version": false,
+    "version": "1.21.1",
     "try-creative": false
   },
 
